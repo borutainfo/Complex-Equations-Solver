@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.598,=C:\Users\Boruta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.509,C:\Users\Boruta\Documents\Embarcadero\Studio\Projects\Unit1.pas=H:\Studia\Semestr 4\Elementy analizy numerycznej\Pro\EAN.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.236,C:\Users\Boruta\Documents\Embarcadero\Studio\Projects\Project1.dproj=H:\Studia\Semestr 4\Elementy analizy numerycznej\Pro\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.181,=C:\Users\Boruta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.304,=H:\Studia\Semestr 4\Elementy analizy numerycznej\Projekt\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.934,H:\Studia\Semestr 4\Elementy analizy numerycznej\Projekt\CplxMtrxI.pas=H:\Studia\Semestr 4\Elementy analizy numerycznej\Projekt\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.509,C:\Users\Boruta\Documents\Embarcadero\Studio\Projects\Unit1.dfm=H:\Studia\Semestr 4\Elementy analizy numerycznej\Pro\EAN.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
